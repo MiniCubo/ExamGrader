@@ -1,0 +1,14 @@
+﻿exam
+Respuestas correctas: 5/20. Calificación 25/100
+
+exam3
+Respuestas correctas: 7/20. Calificación 35/100
+
+foto
+Respuestas correctas: 0/20. Calificación 0/100
+
+foto2
+Respuestas correctas: 14/20. Calificación 70/100
+
+foto3
+Respuestas correctas: 11/20. Calificación 55/100
